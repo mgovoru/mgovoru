@@ -30,4 +30,4 @@ Ural State University
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ## Train:
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/rsschool_87327fd36b85a0cc) 
+[![codewars](https://www.codewars.com/users/rsschool_87327fd36b85a0cc/badges/micro)](https://www.codewars.com/users/rsschool_87327fd36b85a0cc) 
