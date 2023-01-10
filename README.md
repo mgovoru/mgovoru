@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me:
-I love seeing web-design come to life. I want to develop in this direction. I like the IT field, because technology gives people freedom and well-being. We can choose in life between the red and the blue pill. Now the metaphor seems relevant to me: red is knowledge, blue is ignorance. And I choose red.
+My name is Maria Govorukhina. I love seeing web-design come to life. I want to develop in this direction. I like the IT field, because technology gives people freedom and well-being. We can choose in life between the red and the blue pill. Now the metaphor seems relevant to me: red is knowledge, blue is ignorance. And I choose red.
 
 ## Education:
 Ural State University  
