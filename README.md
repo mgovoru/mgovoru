@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me:
-My name is Maria Govorukhina. I enjoy bringing web design ideas to life. My aim is to grow in this field. I'm drawn to IT as it promotes freedom and prosperity. In life, we often face a choice, similar to selecting between a red or a blue pill. Right now, to me, red represents wisdom and blue stands for ignorance. I choose red.
+My name is Maria Govorukhina. I enjoy bringing web design ideas to life. My aim is to grow in this field. I'm drawn to IT as it promotes freedom and prosperity. In life, we often face a choice, similar to selecting between a red or a blue pill. Right now, to me, red represents knowledge and blue stands for ignorance. I choose red.
 
 ## Education:
 Ural State University  
