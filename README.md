@@ -19,7 +19,9 @@ My name is Maria Govorukhina. I enjoy bringing web design ideas to life. My aim 
 
 ## Education:
 Ural State University  
+
 <img src="https://github.com/user-attachments/assets/cb41e903-435e-402b-9275-0623f6bfa37c" alt="альтернативный_текст" width="20%" height="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/8a048c0f-b4ac-4ae5-847a-2a503747377f" alt="альтернативный_текст" width="20%" height="20%">
 
 ## Skills:
