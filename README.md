@@ -19,6 +19,8 @@ My name is Maria Govorukhina. I enjoy bringing web design ideas to life. My aim 
 
 ## Education:
 Ural State University  
+![sertificate_RSschool__st2](https://github.com/user-attachments/assets/cb41e903-435e-402b-9275-0623f6bfa37c)
+![sertificate_React](https://github.com/user-attachments/assets/8a048c0f-b4ac-4ae5-847a-2a503747377f)
 
 ## Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
