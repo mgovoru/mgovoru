@@ -24,6 +24,9 @@ Ural State University
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/8a048c0f-b4ac-4ae5-847a-2a503747377f" alt="альтернативный_текст" width="20%" height="20%">
 
+## Portfolio:
+https://portfolio-mgovoru.vercel.app
+
 ## Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
